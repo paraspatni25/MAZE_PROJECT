@@ -1,6 +1,6 @@
 """
-Paras Patni : 1896045
-Vishnu Vardhan : 1894987
+Paras Patni
+Vishnu Vardhan
 """
 
 
